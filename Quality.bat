@@ -1,0 +1,1 @@
+echo "Build output %date% %time%";
